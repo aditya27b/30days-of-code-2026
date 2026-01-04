@@ -11,3 +11,6 @@ completed the submission on 2 jan 2026
 
 Day 3:Created external stylesheet (style.css) and linked across all pages. back from the portfolio page
 ![alt text](image-3.png)
+
+Day 4:Responsive Landing Page, Sticky Navigation, CSS Animations, Flexbox Layouts, Interactive Pricing Tiers, Smooth Scrolling.
+![alt text](image-4.png)
