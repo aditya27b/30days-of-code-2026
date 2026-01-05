@@ -14,3 +14,6 @@ Day 3:Created external stylesheet (style.css) and linked across all pages. back 
 
 Day 4:Responsive Landing Page, Sticky Navigation, CSS Animations, Flexbox Layouts, Interactive Pricing Tiers, Smooth Scrolling.
 ![alt text](pictures/image-4.png)
+
+Day 5: Interactive Tic Tac Toe with animated & SVG graphics, confetti win effects, score tracking, glassmorphism UI, and smooth CSS animations using custom Google Fonts.
+![alt text](pictures/image.png)
