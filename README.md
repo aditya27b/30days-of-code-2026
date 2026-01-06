@@ -17,3 +17,7 @@ Day 4:Responsive Landing Page, Sticky Navigation, CSS Animations, Flexbox Layout
 
 Day 5: Interactive Tic Tac Toe with animated & SVG graphics, confetti win effects, score tracking, glassmorphism UI, and smooth CSS animations using custom Google Fonts.
 ![alt text](pictures/image.png)
+
+Day 6: What is the worst case time complexity of the following code:
+O(2^(R + C))
+![alt text](pictures/image-6.png)
