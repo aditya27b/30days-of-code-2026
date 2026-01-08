@@ -25,3 +25,6 @@ O(2^(R + C))
 Day 7:Find the Sum of Encrypted Integers
 ![alt text](pictures/image-7a.png)
 ![alt text](pictures/image-7b.png)
+
+Day 8: longest consecutive sequence
+![alt text](pictures/image-8.png)
