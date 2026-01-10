@@ -31,3 +31,6 @@ Day 8: longest consecutive sequence
 
 Day9: Largest odd possible number
 ![alt text](pictures/image-9.png)
+
+Day10: sorting 0 1 2
+![alt text](pictures/image-10.png)
