@@ -34,3 +34,6 @@ Day9: Largest odd possible number
 
 Day10: sorting 0 1 2
 ![alt text](pictures/image-10.png)
+
+Day11: merge sorting
+![alt text](pictures/image-11.png)
