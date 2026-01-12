@@ -37,3 +37,6 @@ Day10: sorting 0 1 2
 
 Day11: merge sorting
 ![alt text](pictures/image-11.png)
+
+Day12: find first and last index of the target element
+![alt text](pictures/image-12.png)
