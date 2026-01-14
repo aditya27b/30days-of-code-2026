@@ -43,3 +43,6 @@ Day12: find first and last index of the target element
 
 Day13:
 ![alt text](pictures/image-13.png)
+
+Day14: 
+![alt text](pictures/image-14.png)
