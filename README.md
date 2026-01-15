@@ -46,3 +46,6 @@ Day13:
 
 Day14: 
 ![alt text](pictures/image-14.png)
+
+Day15:
+![alt text](pictures/image-15.png)
