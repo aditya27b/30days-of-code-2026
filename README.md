@@ -55,3 +55,6 @@ Day16:
 
 Day17:
 ![alt text](pictures/image-17.png)
+
+Day18:
+![alt text](pictures/image-18.png)
