@@ -64,3 +64,6 @@ Day19:
 
 Day20:
 ![alt text](pictures/image-20.png)
+
+Day21:
+![alt text](pictures/image-21.png)
