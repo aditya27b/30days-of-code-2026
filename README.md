@@ -70,3 +70,6 @@ Day21:
 
 Day22:
 ![alt text](pictures/image-22.png)
+
+Day23:
+![alt text](pictures/image-23.png)
