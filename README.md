@@ -73,3 +73,6 @@ Day22:
 
 Day23:
 ![alt text](pictures/image-23.png)
+
+Day24:
+![alt text](pictures/image-24.png)
