@@ -82,3 +82,6 @@ Day25:
 
 Day26:
 ![alt text](pictures/image-26.png)
+
+Day28:
+![alt text](pictures/image-28.png)
