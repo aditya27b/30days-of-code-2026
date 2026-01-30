@@ -91,3 +91,6 @@ Day28:
 
 Day29:
 ![alt text](pictures/image-29.png)
+
+Day30:
+![alt text](pictures/image-30.png)
