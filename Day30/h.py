@@ -1,16 +1,23 @@
 class Solution:
-    def romanToInt(self, s: str) -> int:
-        roman = {
-            'I': 1, 'V': 5, 'X': 10, 'L': 50, 
-            'C': 100, 'D': 500, 'M': 1000
-        }
-        res = 0
-        n = len(s)
+    def intersection(self,a, b):
+        i = 0
+        j = 0
+        n = len(a)
+        m = len(b)
+        res = []
         
-        for i in range(n):
-            if i < n - 1 and roman[s[i]] < roman[s[i + 1]]:
-                res -= roman[s[i]]
+        while i < n and j < m:
+            if i > 0 and a[i] == a[i-1]:
+                i += 1
+                continue
+            
+            if a[i] < b[j]:
+                i += 1
+            elif a[i] > b[j]:
+                j += 1
             else:
-                res += roman[s[i]]
+                res.append(a[i])
+                i += 1
+                j += 1
                 
         return res
